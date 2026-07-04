@@ -5,3 +5,4 @@ algo_deploy_directory = 'Oid85.FinMarket.Algo'
 algo_exe_file_name = "Oid85.FinMarket.Algo.WebHost.exe"
 algo_service_name = 'Oid85.FinMarket.Algo'
 algo_appsettings_file = 'appsettings.json'
+algo_deploy_port = 9101
